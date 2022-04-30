@@ -17,7 +17,6 @@
 #include <asm/fpumacro.h>
 #include <asm/pstate.h>
 #include <asm/elf.h>
-
 #include "opcodes.h"
 
 #define CAMELLIA_MIN_KEY_SIZE        16
